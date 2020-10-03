@@ -17,3 +17,4 @@
 * [rhq](https://github.com/ubnt-intrepid/rhq)
 * [dot](https://github.com/ubnt-intrepid/dot)
 * [polyfuse](https://github.com/ubnt-intrepid/polyfuse)
+* [mimicaw](https://github.com/ubnt-intrepid/mimicaw)
